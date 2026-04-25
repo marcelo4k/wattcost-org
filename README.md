@@ -64,4 +64,4 @@ Pre-loaded rates for:
 
 ## License
 
-Content and design © 2025 WattCost.org. Calculator logic is open for reference.
+Content and design © 2026 WattCost.org. Calculator logic is open for reference.
